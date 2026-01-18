@@ -89,3 +89,21 @@ a:hover {
 .center {
     text-align: center;
 }
+/* ===== PHẦN MỞ ĐẦU (OPEN) ===== */
+.open {
+    width: 80%;
+    margin: 30px auto;
+}
+
+.open h2 {
+    text-align: justify;
+}
+/* ===== PHẦN MỞ ĐẦU (OPEN) ===== */
+.open {
+    width: 80%;
+    margin: 30px auto;
+}
+
+.open h2 {
+    text-align: justify;
+}
