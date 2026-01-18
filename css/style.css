@@ -10,7 +10,7 @@ body {
 /* ===== TIÊU ĐỀ ===== */
 h1 {
     text-align: center;
-    color: #800000;
+    color: #004080;
     margin: 30px 0;
 }
 
@@ -92,16 +92,7 @@ a:hover {
 /* ===== PHẦN MỞ ĐẦU (OPEN) ===== */
 .open {
     width: 80%;
-    margin: 30px auto;
-}
-
-.open h2 {
-    text-align: justify;
-}
-/* ===== PHẦN MỞ ĐẦU (OPEN) ===== */
-.open {
-    width: 80%;
-    margin: 30px auto;
+    margin: 20px auto;
 }
 
 .open h2 {
