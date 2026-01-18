@@ -10,7 +10,7 @@ body {
 /* ===== TIÊU ĐỀ ===== */
 h1 {
     text-align: center;
-    color: #004080;
+    color: #800000;
     margin: 30px 0;
 }
 
@@ -107,3 +107,4 @@ a:hover {
 .open h2 {
     text-align: justify;
 }
+
