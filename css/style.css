@@ -1,7 +1,10 @@
 /* ===== THIẾT LẬP CHUNG ===== */
 body {
     font-family: Arial, sans-serif;
-    margin: 0;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
     padding: 0;
     line-height: 1.6;
     background-color: #f9f9f9;
@@ -98,4 +101,49 @@ a:hover {
 .open h2 {
     text-align: justify;
 }
+/*====HỘP LIÊN HỆ====*/
+.contact-box {
+    width: 400px;
+    margin: 40px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+}
 
+.contact-box h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.contact-box label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.contact-box input,
+.contact-box textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+.contact-box textarea {
+    height: 100px;
+}
+
+.contact-box button {
+    width: 100%;
+    margin-top: 15px;
+    padding: 10px;
+    background-color: #004080;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#result {
+    margin-top: 15px;
+    text-align: center;
+    font-weight: bold;
+}
